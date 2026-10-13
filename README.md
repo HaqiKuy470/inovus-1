@@ -64,3 +64,5 @@ There’s no separate lint, test, or type-check script yet.
 
 - [Astro Documentation](https://docs.astro.build)
 - [WRI Community Reference](https://wridev.id/en/)
+
+You Poor Bro, Touch Grass Please
